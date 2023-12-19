@@ -13,7 +13,7 @@ data:
     depth_scale: 1000
   images:
     images_path: 'data_compressed/color/'  
-    images_ext: '.jpg'
+    images_ext: '.png'
 
 openmask3d:
   top_k: 5

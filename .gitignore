@@ -1,0 +1,4 @@
+resources/*
+output/*
+openmask3d.egg-info/*
+openmask3d/*
